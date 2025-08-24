@@ -81,3 +81,5 @@ jenkins$ ipconfig
 jenkins$ exit
 [*] Bye.
 ```
+
+(written for the Object box on htb)
