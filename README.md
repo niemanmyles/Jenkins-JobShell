@@ -19,7 +19,7 @@ Supports pulling and updating job configs, replacing `<command>` in Freestyle jo
   - Each command replaces `<command>`, updates the job, triggers a build, and prints logs
   - Exit with `exit`, `quit`, or `Ctrl+C`
 
-🚀 Usage
+### 🚀 Usage
 
 All modes require:
 ```
