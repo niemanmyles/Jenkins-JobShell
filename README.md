@@ -1,7 +1,7 @@
 # JenkinsShell 🛠️
 
 A Python tool to interact with Jenkins servers via the REST API.  
-Supports pulling and updating job configs, replacing `<command>` in Freestyle jobs, triggering builds, fetching console output, and an **interactive shell mode** (`--shell`) for running commands repeatedly through Jenkins.
+Supports pulling and updating job configs, replacing `<command>` in Freestyle jobs, triggering builds, fetching console output, and a semi-interactive shell mode (`--shell`) for running commands repeatedly through Jenkins.
 
 ---
 
